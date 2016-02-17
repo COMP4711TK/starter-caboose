@@ -8,3 +8,6 @@
 
 ##v.1.2 (2/16/2016)
 *Added Caboose
+
+##v.1.3 (2/17/2016)
+*Finished step 3 - Added rating
